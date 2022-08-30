@@ -1,8 +1,7 @@
 
 
-## Design Project
+## Landing Page Design clone of Airbnb
 
-[Landing Page Design clone of Airbnb]
 This is a tailwind cdn designed project clone of airbnb.
 
 ## Installation
